@@ -1,0 +1,27 @@
+{
+    "name_dataset": "from_en_to_ro_deepl",
+    "format": "newsmtsc",
+    "folder_dataset": "from_en_to_ro",
+    "filenames": {
+        "train": "train.jsonl",
+        "validation": "validation.jsonl",
+        "test": "test.jsonl"
+    },
+    "splitting_strategy": {
+        "train": [
+            1,
+            0,
+            0
+        ],
+        "test": [
+            0,
+            1,
+            0
+        ],
+        "validation": [
+            0,
+            0,
+            1
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: TscBench
+Version: 0.1.0
+Home-page: None
+Author: Evan Dufraisse
+Author-email: edufraisse@gmail.com
+Maintainer: None
+Maintainer-email: None
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: tqdm
+Requires-Dist: jsonlines
+Requires-Dist: numpy
+Requires-Dist: loguru
+Requires-Dist: click
+Requires-Dist: requests
+Requires-Dist: ipython
+Requires-Dist: pytorch_lightning
+Requires-Dist: names_generator
+Requires-Dist: scikit_learn
+Requires-Dist: optuna
+Requires-Dist: dateparser
+Requires-Dist: tensorboard
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: requires-python
+
+# TSC benchmark package

@@ -1,0 +1,15 @@
+transformers
+torch
+tqdm
+jsonlines
+numpy
+loguru
+click
+requests
+ipython
+pytorch_lightning
+names_generator
+scikit_learn
+optuna
+dateparser
+tensorboard

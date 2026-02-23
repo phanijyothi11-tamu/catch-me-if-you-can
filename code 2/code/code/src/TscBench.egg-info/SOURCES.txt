@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/TscBench.egg-info/PKG-INFO
+src/TscBench.egg-info/SOURCES.txt
+src/TscBench.egg-info/dependency_links.txt
+src/TscBench.egg-info/entry_points.txt
+src/TscBench.egg-info/requires.txt
+src/TscBench.egg-info/top_level.txt
+src/tscbench/__init__.py
+src/tscbench/cli.py

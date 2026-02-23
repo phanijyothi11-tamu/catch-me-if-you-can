@@ -1,0 +1,20 @@
+# datasets
+MAD_TSC/
+NewsMTSC-dataset/
+
+# mac junk
+__MACOSX/
+.DS_Store
+
+# logs / outputs
+logs/
+*.log
+experiments/
+run_outputs/
+
+# python
+__pycache__/
+*.pyc
+
+# large files
+*.jsonl
